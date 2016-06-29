@@ -48,7 +48,7 @@ Checks if an array is an associative array.
 
 Transforms a string into a lowercase-dashed string.
 
-*string* **toDash** ( string $str )
+*string* **toCamel** ( string $str )
 
 Transforms a string into a camel-cased string.
 
